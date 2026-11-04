@@ -72,7 +72,7 @@
   <a href="https://linkedin.com/in/akshita-mahapatra-b721582bb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/akshita_1810">
+  <a href="https://instagram.com/akshita_1810_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://facebook.com/Akshita%20Mahapatra">
