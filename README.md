@@ -33,29 +33,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshitam18&theme=dark&hide_border=true&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img height="170" src="./profile/stats.svg" alt="GitHub Stats">
   <img height="170" src="https://streak-stats.demolab.com?user=akshitam18&theme=dark&hide_border=true" alt="Contribution Streak">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitam18&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshitam18&theme=darkhub&no-frame=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies">
+  <img height="170" src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
 ## 📦 Featured Projects
 
 <p align="center">
   <a href="https://github.com/akshitam18/hte-ai-assistant">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=akshitam18&repo=hte-ai-assistant&theme=dark&hide_border=true" alt="HTE AI Assistant">
+    <img width="400" src="./profile/hte-ai-assistant.svg" alt="HTE AI Assistant">
   </a>
   <a href="https://github.com/jiyac-code/JalRakshak">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=jiyac-code&repo=JalRakshak&theme=dark&hide_border=true" alt="JalRakshak">
+    <img width="400" src="./profile/jalrakshak.svg" alt="JalRakshak">
   </a>
   <a href="https://github.com/omisha123/PackSenseAI">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=omisha123&repo=PackSenseAI&theme=dark&hide_border=true" alt="PackSenseAI">
+    <img width="400" src="./profile/packsenseai.svg" alt="PackSenseAI">
   </a>
   <a href="https://github.com/bhumikaborkar7/VJTI-Finds">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=bhumikaborkar7&repo=VJTI-Finds&theme=dark&hide_border=true" alt="VJTI Finds">
+    <img width="400" src="./profile/vjti-finds.svg" alt="VJTI Finds">
   </a>
 </p>
 
