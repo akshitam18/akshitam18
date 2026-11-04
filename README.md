@@ -1,73 +1,97 @@
-
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F2A7C6,50:A77BCA,100:5965B8,100:607DCE&section=header&text=Hey+there%2C+I%27m+Akshita+%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn+%E2%80%A2+Build+%E2%80%A2+Vibe+%E2%80%A2+Repeat&descSize=18&descAlignY=60&descColor=ffffff" alt="Hey there, I'm Akshita">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5B7CFA,100:00C2FF&height=190&section=header&text=Akshita%20Mahapatra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Learn%20%7C%20Create&descAlignY=60&descSize=18" width="100%" alt="Purple blue header"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Akshita+%F0%9F%91%8B;IT+student+at+VJTI+%F0%9F%92%BB;Learning+%7C+Building+%7C+Growing;Always+curious%2C+always+learning" alt="Typing intro"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/GitHub-akshitam18-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Student-VJTI-7C5CFC?style=for-the-badge" alt="VJTI student"/>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=900&color=b074e2&center=true&vCenter=true&width=600&lines=A+little+chaos%2C+a+lot+of+curiosity+%F0%9F%92%AD%3BSomewhere+between+overthinking+and+daydreaming+%F0%9F%8C%99%3BJust+figuring+things+out+as+I+go+%F0%9F%8E%80%3BHere+for+the+experiences+and+plot+twists+%F0%9F%98%82" alt="Typing animation">
+  </a>
 </div>
 
----
+<p align="center">
+  <b>IT Student @ VJTI 💻 | Exploring Software Development ✨ | Learning DSA & AI/ML 🌱 | Building Projects & Growing 🚀</b>
+</p>
 
-## 🌷 About Me
+## 💫 About Me
 
-Hey! I'm **Akshita**, an Information Technology student at **VJTI, Mumbai**.
+- 💻 Interested in software development and building practical applications.
+- 🌱 Currently exploring DSA, Python, AI/ML and new technologies.
+- 🧩 I enjoy problem-solving and turning ideas into working projects.
+- 🚀 Love participating in hackathons and learning through hands-on experiences.
+- 🤝 Always open to collaborating, learning and exploring new opportunities!
 
-- 💻 I enjoy exploring technology and learning how things work.
-- 🌱 Currently learning, experimenting, and improving one step at a time.
-- 🧩 I like solving problems and turning ideas into practical projects.
-- 🤝 Always open to learning from others and collaborating on interesting things.
+## 🔭 Currently Working On
 
----
+- Building practical applications and experimenting with new ideas.
+- Strengthening my programming and problem-solving skills.
+- Exploring AI/ML and different areas of software development.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,react,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,tailwind,nodejs,express,postgres,mongodb,git,vscode,java,cpp,latex,vite,fastapi,tensorflow,firebase,github,notion,sklearn&perline=14" alt="Tech Stack">
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshitam18&theme=dark&hide_border=true&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img height="170" src="https://streak-stats.demolab.com?user=akshitam18&theme=dark&hide_border=true" alt="Contribution Streak">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitam18&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akshitam18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub stats"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshitam18&theme=darkhub&no-frame=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies">
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitam18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+## 📈 Contribution Activity
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshitam18&theme=github-compact&hide_border=true&radius=8" alt="Contribution Activity Graph">
 
-<img src="https://streak-stats.demolab.com?user=akshitam18&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
+## 📦 Featured Projects
 
-</div>
+<p align="center">
+  <a href="https://github.com/akshitam18/hte-ai-assistant">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=hte-ai-assistant&theme=dark&hide_border=true" alt="HTE AI Assistant">
+  </a>
+  <a href="https://github.com/akshitam18/JalRakshak">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=JalRakshak&theme=dark&hide_border=true" alt="JalRakshak">
+  </a>
+  <a href="https://github.com/akshitam18/PackSenseAI">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=PackSenseAI&theme=dark&hide_border=true" alt="PackSenseAI">
+  </a>
+  <a href="https://github.com/akshitam18/VJTI-Finds">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=VJTI-Finds&theme=dark&hide_border=true" alt="VJTI Finds">
+  </a>
+</p>
 
----
+## 🌐 Connect With Me
 
-## 🌐 Explore My GitHub
+<p align="center">
+  <a href="https://github.com/akshitam18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/akshita-mahapatra-b721582bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/akshita_1810">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/Akshita%20Mahapatra">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://leetcode.com/Akshitam1810">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:akshitamahapatra703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-I use this space to learn, experiment, share what I build, and keep track of my journey as a developer. More to come! ✨
+## ☕ Support My Work
 
-<div align="center">
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Akshita">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
 
-<a href="https://github.com/akshitam18?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-<br/><br/>
-
-*“Learning a little, building a little, every day.” 💜*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:5B7CFA,100:8A2BE2&height=100&section=footer" width="100%" alt="Purple blue footer"/>
-
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:F2A7C6,50:A77BCA,100:5965B8&section=footer" alt="Footer wave">
