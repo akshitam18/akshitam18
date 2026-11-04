@@ -42,24 +42,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=akshitam18&theme=darkhub&no-frame=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies">
 </p>
 
-## 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshitam18&theme=github-compact&hide_border=true&radius=8" alt="Contribution Activity Graph">
-
 ## 📦 Featured Projects
 
 <p align="center">
   <a href="https://github.com/akshitam18/hte-ai-assistant">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=hte-ai-assistant&theme=dark&hide_border=true" alt="HTE AI Assistant">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=akshitam18&repo=hte-ai-assistant&theme=dark&hide_border=true" alt="HTE AI Assistant">
   </a>
-  <a href="https://github.com/akshitam18/JalRakshak">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=JalRakshak&theme=dark&hide_border=true" alt="JalRakshak">
+  <a href="https://github.com/jiyac-code/JalRakshak">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=jiyac-code&repo=JalRakshak&theme=dark&hide_border=true" alt="JalRakshak">
   </a>
-  <a href="https://github.com/akshitam18/PackSenseAI">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=PackSenseAI&theme=dark&hide_border=true" alt="PackSenseAI">
+  <a href="https://github.com/omisha123/PackSenseAI">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=omisha123&repo=PackSenseAI&theme=dark&hide_border=true" alt="PackSenseAI">
   </a>
-  <a href="https://github.com/akshitam18/VJTI-Finds">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshitam18&repo=VJTI-Finds&theme=dark&hide_border=true" alt="VJTI Finds">
+  <a href="https://github.com/bhumikaborkar7/VJTI-Finds">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=bhumikaborkar7&repo=VJTI-Finds&theme=dark&hide_border=true" alt="VJTI Finds">
   </a>
 </p>
 
