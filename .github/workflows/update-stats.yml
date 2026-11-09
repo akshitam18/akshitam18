@@ -64,6 +64,13 @@ jobs:
           options: 'username=bhumikaborkar7&repo=VJTI-Finds&theme=dark&hide_border=true'
           path: profile/vjti-finds.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
+ 
+      - name: Generate Contribution Streak
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: 'user=akshitam18&theme=dark&hide_border=true&disable_animations=true'
+          path: profile/streak.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit generated cards
         run: |
