@@ -34,7 +34,7 @@
 
 <p align="center">
   <img height="170" src="./profile/stats.svg" alt="GitHub Stats">
-  <img height="170" src="https://streak-stats.demolab.com?user=akshitam18&theme=dark&hide_border=true" alt="Contribution Streak">
+  <img height="170" src="./profile/streak.svg" alt="Contribution Streak">
   <img height="170" src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
