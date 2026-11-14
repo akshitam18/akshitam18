@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F2A7C6,50:A77BCA,100:5965B8&section=header&text=git+commit+-m+%22Hello,+I%27m+Akshita!%22+%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn+%E2%80%A2+Build+%E2%80%A2+Vibe+%E2%80%A2+Repeat&descSize=18&descAlignY=60&descColor=ffffff" alt="git commit -m Hello, I'm Akshita! 🦋">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F2A7C6,50:A77BCA,100:5965B8&section=header&text=git+commit+-m+%22Hello,+I%27m+Akshita!%22+%F0%9F%A6%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn+%E2%80%A2+Build+%E2%80%A2+Vibe+%E2%80%A2+Repeat&descSize=18&descAlignY=60&descColor=ffffff" alt="git commit -m Hello, I'm Akshita! 🦋">
 </div>
 
   <a href="https://git.io/typing-svg">
