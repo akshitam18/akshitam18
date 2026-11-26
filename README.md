@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F2A7C6,50:A77BCA,100:5965B8&section=header&text=git+commit+-m+%22Hello,+I%27m+Akshita!%22+%F0%9F%A6%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn+%E2%80%A2+Build+%E2%80%A2+Vibe+%E2%80%A2+Repeat&descSize=18&descAlignY=60&descColor=ffffff" alt="git commit -m Hello, I'm Akshita! 🦋">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F4ACB7,35:D98C9B,70:B56576,100:6D2932&section=header&text=git+commit+-m+%22Hello,+I%27m+Akshita!%22+%F0%9F%A6%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn+%E2%80%A2+Build+%E2%80%A2+Vibe+%E2%80%A2+Repeat&descSize=18&descAlignY=56&descColor=ffffff" alt="git commit -m Hello, I'm Akshita! 🦋">
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=900&color=b074e2&center=true&vCenter=true&width=600&lines=A+little+chaos%2C+a+lot+of+curiosity+%F0%9F%92%AD%3BSomewhere+between+overthinking+and+daydreaming+%F0%9F%8C%99%3BJust+figuring+things+out+as+I+go+%F0%9F%8E%80%3BHere+for+the+experiences+and+plot+twists+%F0%9F%98%82" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=900&color=B56576&center=true&vCenter=true&width=750&lines=A+little+chaos%2C+a+lot+of+curiosity+%F0%9F%92%AD%3BSomewhere+between+overthinking+and+daydreaming+%F0%9F%8C%99%3BJust+figuring+things+out+as+I+go+%F0%9F%8E%80%3BHere+for+the+experiences+and+plot+twists+%F0%9F%98%82" alt="Typing animation">
 </p>
 
 <p align="center">
@@ -86,4 +86,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:F2A7C6,50:A77BCA,100:5965B8&section=footer" alt="Footer wave">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:F4ACB7,35:D98C9B,70:B56576,100:6D2932&section=footer" alt="Footer wave">
